@@ -38,7 +38,10 @@ public class FirstLevelCodes : NetworkBehaviour
             rb.velocity = new Vector3(rb.velocity.x, Jump, rb.velocity.z);
 
         transform.forward = new Vector3(rb.velocity.x, 0, rb.velocity.z);
-
+        
+    }
+    private void FixedUpdate()
+    {
         if (hizlandi == true)
         {
             MoveSpeed = 20;
@@ -51,6 +54,8 @@ public class FirstLevelCodes : NetworkBehaviour
             }
         }
     }
+
+
 
     private void OnTriggerEnter(Collider other)
     {

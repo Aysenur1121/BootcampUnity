@@ -21,6 +21,11 @@ public class BuzScalercod : NetworkBehaviour
     // Update is called once per frame
     void Update()
     {
+        
+    }
+
+    private void FixedUpdate()
+    {
         timer += Time.deltaTime;
 
         if (timer >= interval)
@@ -28,6 +33,7 @@ public class BuzScalercod : NetworkBehaviour
             timer = 0f;
             ShrinkObject();
         }
+
     }
 
     private void ShrinkObject()
