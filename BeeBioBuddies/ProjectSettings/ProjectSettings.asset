@@ -871,11 +871,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 5336f26b-9f05-4da8-a6a0-7724647803e3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: BioBuddies
+  organizationId: bee-154-9
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
