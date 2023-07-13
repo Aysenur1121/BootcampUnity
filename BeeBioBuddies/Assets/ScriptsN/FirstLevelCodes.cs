@@ -63,6 +63,7 @@ public class FirstLevelCodes : NetworkBehaviour
         if (other.tag == "Collect")
         {
             hizlandi = true;
+            Destroy(other.gameObject);
         }
 
         //spawn i?in
@@ -73,9 +74,11 @@ public class FirstLevelCodes : NetworkBehaviour
         }
         else if (other.CompareTag("deniz") && !isReturning)
         {
+            Debug.Log("Öldü mü?");
             // denize de?ersen geri d?n
             isReturning = true;
             StartCoroutine(ReturnToInitialPosition());
+            
         }
 
         if (other.tag == "pengus")
