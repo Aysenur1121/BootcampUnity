@@ -207,8 +207,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 803559358}
-        m_TargetAssemblyTypeName: SimpleRelay, SimpleRelay
+      - m_Target: {fileID: 803559360}
+        m_TargetAssemblyTypeName: SimpleRelay1, Assembly-CSharp
         m_MethodName: OnSignIn
         m_Mode: 1
         m_Arguments:
@@ -697,6 +697,7 @@ GameObject:
   - component: {fileID: 250223088}
   - component: {fileID: 250223087}
   - component: {fileID: 250223086}
+  - component: {fileID: 250223089}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -770,6 +771,39 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &250223089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 250223085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 0
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_Version: 2
 --- !u!1 &276734267
 GameObject:
   m_ObjectHideFlags: 0
@@ -1631,8 +1665,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 803559358}
-        m_TargetAssemblyTypeName: SimpleRelay, SimpleRelay
+      - m_Target: {fileID: 803559360}
+        m_TargetAssemblyTypeName: SimpleRelay1, Assembly-CSharp
         m_MethodName: OnAllocate
         m_Mode: 1
         m_Arguments:
@@ -1690,7 +1724,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 803559359}
-  - component: {fileID: 803559358}
+  - component: {fileID: 803559360}
   m_Layer: 0
   m_Name: SimpleRelayManager
   m_TagString: Untagged
@@ -1698,23 +1732,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &803559358
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 803559357}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64b3b23dd1b36034ead5624b1b778359, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PlayerIdText: {fileID: 765623988}
-  RegionsDropdown: {fileID: 753484308}
-  HostAllocationIdText: {fileID: 1224799529}
-  JoinCodeText: {fileID: 1394332009}
-  PlayerAllocationIdText: {fileID: 844389913}
 --- !u!4 &803559359
 Transform:
   m_ObjectHideFlags: 0
@@ -1730,6 +1747,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &803559360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 803559357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38999ab55d4064d87aefac3580224269, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerIdText: {fileID: 765623988}
+  RegionsDropdown: {fileID: 753484308}
+  HostAllocationIdText: {fileID: 1224799529}
+  JoinCodeText: {fileID: 1394332009}
+  PlayerAllocationIdText: {fileID: 844389913}
 --- !u!1 &842694823
 GameObject:
   m_ObjectHideFlags: 0
@@ -1997,8 +2031,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 803559358}
-        m_TargetAssemblyTypeName: SimpleRelay, SimpleRelay
+      - m_Target: {fileID: 803559360}
+        m_TargetAssemblyTypeName: SimpleRelay1, Assembly-CSharp
         m_MethodName: OnJoin
         m_Mode: 1
         m_Arguments:
@@ -2976,8 +3010,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 803559358}
-        m_TargetAssemblyTypeName: SimpleRelay, SimpleRelay
+      - m_Target: {fileID: 803559360}
+        m_TargetAssemblyTypeName: SimpleRelay1, Assembly-CSharp
         m_MethodName: OnJoinCode
         m_Mode: 1
         m_Arguments:
@@ -3775,8 +3809,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 803559358}
-        m_TargetAssemblyTypeName: SimpleRelay, SimpleRelay
+      - m_Target: {fileID: 803559360}
+        m_TargetAssemblyTypeName: SimpleRelay1, Assembly-CSharp
         m_MethodName: OnRegion
         m_Mode: 1
         m_Arguments:
