@@ -12,26 +12,52 @@ public class FirstLevelCodes : MonoBehaviour
     public bool hizlandi = false;
     public bool geldi = false;
     //spawn icin
-    private Vector3 initialPosition;  // Ýlk pozisyon
-    private bool isReturning;  // Geri dönme durumu
+    private Vector3 initialPosition;  // ?lk pozisyon
+    private bool isReturning;  // Geri d?nme durumu
+
+    private Camera mainCamera;       //degiÅŸen
+    private Vector3 moveDirection;   // degiÅŸen
+    private bool isMoving = false;
 
 
-    // Start is called before the first frame update
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         //spawn
-        initialPosition = transform.position;  // Ýlk pozisyonu kaydet
+        initialPosition = transform.position;  // ?lk pozisyonu kaydet
         Debug.Log("ilk pozisyon tmm");
+
+        mainCamera = Camera.main; //degisen
     }
 
-    // Update is called once per frame
+
     void Update()
     {
-        float horInput = Input.GetAxisRaw("Horizontal") * MoveSpeed;
-        float verInput = Input.GetAxisRaw("Vertical") * MoveSpeed;
+        float horizontal = Input.GetAxis("Horizontal");
+        float vertical = Input.GetAxis("Vertical");
 
-        rb.velocity = new Vector3(horInput, rb.velocity.y, verInput);
+
+        // Kamera yÃ¶nÃ¼ne gÃ¶re hareket vektÃ¶rÃ¼nÃ¼ hesapla
+        Vector3 cameraForward = Vector3.Scale(mainCamera.transform.forward, new Vector3(1, 0, 1)).normalized;
+        moveDirection = (vertical * cameraForward + horizontal * mainCamera.transform.right).normalized;
+
+        if (moveDirection.magnitude > 0)
+        {
+            isMoving = true;
+            transform.Translate(moveDirection * MoveSpeed * Time.deltaTime, Space.World);
+
+            // Karakterin yÃ¶nÃ¼nÃ¼ kamera yÃ¶nÃ¼ne hizala
+            transform.rotation = Quaternion.LookRotation(moveDirection);
+        }
+        else
+        {
+            if (isMoving)
+            {
+                isMoving = false;
+                // Hareket durduÄŸunda ek iÅŸlemler yapabilirsiniz
+            }
+        }
 
         if (Input.GetButtonDown("Jump") && Mathf.Approximately(rb.velocity.y, 0))
             rb.velocity = new Vector3(rb.velocity.x, Jump, rb.velocity.z);
@@ -62,17 +88,18 @@ public class FirstLevelCodes : MonoBehaviour
         if (other.tag == "Collect")
         {
             hizlandi = true;
+            Destroy(other.gameObject);
         }
 
-        //spawn için
+        //spawn i?in
         if (other.tag == "buz")
         {
-            // Buz tag'li objeyegeldiðinde konum kaydet
+            // Buz tag'li objeyegeldi?inde konum kaydet
             initialPosition = transform.position;
         }
         else if (other.CompareTag("deniz") && !isReturning)
         {
-            // denize deðersen geri dön
+            // denize de?ersen geri d?n
             isReturning = true;
             StartCoroutine(ReturnToInitialPosition());
         }
@@ -92,10 +119,10 @@ public class FirstLevelCodes : MonoBehaviour
         }
     }
 
-    //spawn için
+    //spawn i?in
     private System.Collections.IEnumerator ReturnToInitialPosition()
     {
-        float duration = 0f;  // Geri dönme süresi
+        float duration = 0f;  // Geri d?nme s?resi
         float elapsedTime = 0f;
         Vector3 startPosition = transform.position;
 
@@ -107,8 +134,8 @@ public class FirstLevelCodes : MonoBehaviour
             yield return null;
         }
 
-        transform.position = initialPosition;  // Son konumu güncelle
-        isReturning = false;  // Geri dönme durumunu sýfýrla
+        transform.position = initialPosition;  // Son konumu g?ncelle
+        isReturning = false;  // Geri d?nme durumunu s?f?rla
 
     }
 }
