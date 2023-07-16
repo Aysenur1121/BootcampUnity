@@ -10,10 +10,11 @@ TagManager:
   - Collect
   - trash
   - magnet
-  - organik
   - cam
   - plastik
   - kagit
+  - metal
+  - organik
   layers:
   - Default
   - TransparentFX
