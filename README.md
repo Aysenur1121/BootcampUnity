@@ -77,7 +77,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
   * Trello'nun daha aktif ve güncel tutulması gerektiği vurgulanmıştır.
 ## Product Backlog URL
 [Unity Team 44 Trello Backlog Board](https://trello.com/b/BD0h5AQL) 
-#Sprint 3
+# Sprint 3
 - **Sprint Notları:** Sprint sürecinde tutulan notlar ve görselleştirmeler için doküman oluşturulmuştur. [Sprint Notları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Sprint%20Notları.pdf)
 - **Sprint içinde tamamlanması tahmin edilen puan:** 347 Puan
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. Üçüncü sprintin 255 puan olmasına karar verilmiştir ancak 2. sprintte tamamlanamayan hedeflerle birlikte 347 puan olmuştur.
