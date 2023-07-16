@@ -92,7 +92,7 @@ public class FirstLevelCodes : MonoBehaviour
         }
 
         //spawn i?in
-        if (other.tag == "buz")
+        if (other.tag == "buz" || other.tag == "Engel")
         {
             // Buz tag'li objeyegeldi?inde konum kaydet
             initialPosition = transform.position;
