@@ -8,6 +8,7 @@ TagManager:
   - deniz
   - Engel
   - Collect
+  - trash
   layers:
   - Default
   - TransparentFX
