@@ -24,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
     public bool magnet = false;
     public float magnetsecond = 3.0f;
     //-------------------------3.BOLUM-------------------------------------
-    public bool organic = false;
+    public bool metal = false;
     public bool plastic = false;
     public bool glass = false;
     public bool kagit = false;
@@ -106,9 +106,9 @@ public class PlayerMovement : MonoBehaviour
         
         //---------------------------------------------------3.BOLUM----------------------------------------------
 
-        if (organic == true && Input.GetKeyDown(KeyCode.E) && empty == false)
+        if (metal == true && Input.GetKeyDown(KeyCode.E) && empty == false)
         {
-            Debug.Log("Organik al?nd?");
+            Debug.Log("Metal al?nd?");
             empty = true;
         }
 
@@ -203,7 +203,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (other.tag == "organik")
         {           
-            organic = true;
+            metal = true;
         }
 
         if (other.tag == "plastik")
@@ -234,16 +234,16 @@ public class PlayerMovement : MonoBehaviour
 
         //------------------------------------------3.BOLUM---------------------------------
         
-        if (empty == true && organic == true && plastic == false && glass == false)
+        if (empty == true && metal == true && plastic == false && glass == false)
         {
             organictut();
             StartCoroutine(YapisPlayer(other.gameObject));
         }
-        if (empty == true && organic == false && plastic == true && glass == false)
+        if (empty == true && metal == false && plastic == true && glass == false)
         {
             StartCoroutine(YapisPlayer(other.gameObject));
         }
-        if (empty == true && organic == false && plastic == false && glass == true)
+        if (empty == true && metal == false && plastic == false && glass == true)
         {
             StartCoroutine(YapisPlayer(other.gameObject));
         }       
@@ -251,7 +251,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void organictut()
     {
-        organic = false;
+        metal = false;
         plastic = false;
         glass = false;
         empty = false;
@@ -318,7 +318,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void sifirla()
     {
-        organic = false;
+        metal = false;
         plastic = false;
         glass = false;
         kagit = false;
