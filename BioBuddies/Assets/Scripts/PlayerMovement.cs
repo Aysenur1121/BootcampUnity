@@ -27,6 +27,7 @@ public class PlayerMovement : MonoBehaviour
     public bool organic = false;
     public bool plastic = false;
     public bool glass = false;
+    public bool kagit = false;
     public bool empty = false;
     public bool dolu = false;
    
@@ -123,6 +124,13 @@ public class PlayerMovement : MonoBehaviour
             empty = true;
         }
 
+        if (kagit == true && Input.GetKeyDown(KeyCode.E) && empty == false)
+        {
+            Debug.Log("Kagit al?nd?");
+            empty = true;
+        }
+
+
         if (empty == true)
         {
             if (Input.GetKeyDown(KeyCode.F))
@@ -206,7 +214,12 @@ public class PlayerMovement : MonoBehaviour
         if (other.tag == "cam")
         {
             glass = true;
-        }  
+        }
+
+        if (other.tag == "kagit")
+        {
+            kagit = true;
+        }
         
         
     }
@@ -308,6 +321,7 @@ public class PlayerMovement : MonoBehaviour
         organic = false;
         plastic = false;
         glass = false;
+        kagit = false;
         empty = false;
     }
 
