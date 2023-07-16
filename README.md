@@ -75,3 +75,18 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Sprint Retrospective:**
   * Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
   * Trello'nun daha aktif ve güncel tutulması gerektiği vurgulanmıştır.
+## Product Backlog URL
+[Unity Team 44 Trello Backlog Board](https://trello.com/b/BD0h5AQL) 
+# Sprint 3
+- **Sprint Notları:** Sprint sürecinde tutulan notlar ve görselleştirmeler için doküman oluşturulmuştur. [Sprint Notları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Sprint%20Notları.pdf)
+- **Sprint içinde tamamlanması tahmin edilen puan:** 347 Puan
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. Üçüncü sprintin 255 puan olmasına karar verilmiştir ancak 2. sprintte tamamlanamayan hedeflerle birlikte 347 puan olmuştur.
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/Daily%20Scrum.pdf)
+- **Sprint Board Update:** Sprint Board Screenshot'ı:
+![Trello Backlog Çıktısı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/BacklogTrello.png)
+- **Ürün Durumu:** Ekran Görüntüleri:
+![Menu UI ve kodları](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/menu.png)
+- **Sprint Review:** Alınan kararlar: Oyunun single mekaniklerindeki hata ve eksiklikler giderilmiş ve çevre ve aksesuar tasarımları yapılmıştır. Karakter animasyon ve riglemeleri yapılmıştır.Yapılan değişiklik ve düzenlemeler bir araya getirilmiş ve proje teslim edilebilir bir hale getirilmiştir. Github üzerinde çıkan hatalar sonucu ilerlemede yavaşlama ve kopukluklar olmuş ve multiplayer modu yetiştirilememiştir. Sprint Review katılımcıları: Tüm ekip.
+- **Sprint Retrospective:**
+  * Takım üyelerinin gelecek projelerde daha aktif olması gerektiğine vurgu yapılmıştır.
+ 
