@@ -29,6 +29,7 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - Rekabeti ve yarışmayı seven oyuncular
 - 8-18 yaş arası genç oyuncular merkezde olmak üzere renkli tasarımı ve zorluk seviyesi ile her yaş grubundaki çevre duyarlılığı olan oyunculara hitap etmektedir.
 ## Juriye Not
+- Tecrübe yetersizliği ve alınan hatalar sonucu aksaklıklar sebebiyle multiplayer kısmı yetiştirilememiştir.
 # Sprint 1
 - **Sprint Notları:** Oyun hakkında bilgileri içeren tasarım dokümanı oluşturulmuştur. [Oyun tasarım ve sunum dokümanı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint1Documents/OUA%20Bootcamp%20GDD.pdf)  
 - **Sprint içinde tamamlanması tahmin edilen puan:** 125 Puan
