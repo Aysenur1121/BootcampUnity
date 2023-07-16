@@ -8,27 +8,27 @@ public class SecondLevelCodes : MonoBehaviour
     public int trashes = 31;
     public bool magnet = false;
     public float magnetsecond = 3.0f;
-    // Start is called before the first frame update
+    
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if (magnet == true)
         {
             magnetsecond -= Time.deltaTime;
-            // 5 saniyeliðine artacak           
-            GetComponent<CapsuleCollider>().enabled = false; //normal collider devre dýþý           
+            // 5 saniyeli?ine artacak           
+            GetComponent<CapsuleCollider>().enabled = false; //normal collider devre d???           
             GetComponent<SphereCollider>().enabled = true;    //magnet collider etkin                                                             
             if (magnetsecond <= 0f)
             {
                 magnet = false;
                 GetComponent<CapsuleCollider>().enabled = true;  //normal collider etkin
-                GetComponent<SphereCollider>().enabled = false;    // magnet collider etkin deðil            
-                magnetsecond = 3.0f;   // yine 3 saniyeliðine eþitledik, sýfýrda kalmasýn
+                GetComponent<SphereCollider>().enabled = false;    // magnet collider etkin de?il            
+                magnetsecond = 3.0f;   // yine 3 saniyeli?ine e?itledik, s?f?rda kalmas?n
             }
         }
     }
@@ -59,7 +59,7 @@ public class SecondLevelCodes : MonoBehaviour
 
     IEnumerator FollowPlayer(GameObject trashObject)
     {
-        float followSpeed = 2f; // Takip hýzý
+        float followSpeed = 2f; // Takip h?z?
         float minDistance = 1f; // Min takip mesafesi
 
         Rigidbody trashRigidbody = trashObject.GetComponent<Rigidbody>();
@@ -73,10 +73,10 @@ public class SecondLevelCodes : MonoBehaviour
             Vector3 playerPosition = transform.position;
             Vector3 targetPosition = playerPosition + (trashObject.transform.position - playerPosition).normalized * minDistance;
 
-            // Hedefe doðru hareket lerp
+            // Hedefe do?ru hareket lerp
             trashObject.transform.position = Vector3.Lerp(trashObject.transform.position, targetPosition, Time.deltaTime * followSpeed);
 
-            // player merkeze geldiðinde kontrol et
+            // player merkeze geldi?inde kontrol et
             if (Vector3.Distance(trashObject.transform.position, playerPosition) < 0.1f)
             {
                 Destroy(trashObject);
