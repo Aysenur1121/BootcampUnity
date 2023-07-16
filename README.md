@@ -83,10 +83,10 @@ BioBuddies, çevre bilincini vurgulayan ve sürdürülebilirlik temasını ele a
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. Üçüncü sprintin 255 puan olmasına karar verilmiştir ancak 2. sprintte tamamlanamayan hedeflerle birlikte 347 puan olmuştur.
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebepler ve uygunluk durumuna göre Discord veya WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Daily%20Scrums%203.pdf)
 - **Sprint Board Update:** Sprint Board Screenshot'ı:
-![Trello Backlog Çıktısı](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/BacklogTrello.png)
+![Trello Backlog Çıktısı](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Ekran%20Resmi%202023-07-16%2023.24.51.png)
 - **Ürün Durumu:** Ekran Görüntüleri:
-![Menu](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Ekran%20Resmi%202023-07-16%2022.59.49.png)
-![Level Bir](https://github.com/Aysenur1121/Bootcamp/blob/main/ProjectManagement%20/Sprint2Documents/menu.png)
+![Menu](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Ekran%20Resmi%202023-07-16%2023.31.39.png)
+![Level Bir](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Ekran%20Resmi%202023-07-16%2022.59.49.png)
 ![Level iki](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Ekran%20Resmi%202023-07-16%2019.58.07.png)
 ![Level Uc](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Ekran%20Resmi%202023-07-16%2022.21.50.png)
 ![Single End](https://github.com/Aysenur1121/BootcampUnity/blob/main/Project%20Management/Sprint3Documents/Ekran%20Resmi%202023-07-16%2022.23.47.png)
