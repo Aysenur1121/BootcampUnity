@@ -24,12 +24,9 @@ public class PlayerMovement : MonoBehaviour
     public bool magnet = false;
     public float magnetsecond = 3.0f;
     //-------------------------3.BOLUM-------------------------------------
-    public bool metal = false;
-    public bool plastic = false;
-    public bool glass = false;
-    public bool kagit = false;
-    public bool empty = false;
-    public bool dolu = false;
+    public int scor = 0;
+    public bool atikKutu;
+    
    
 
 
@@ -111,40 +108,10 @@ public class PlayerMovement : MonoBehaviour
         
         //---------------------------------------------------3.BOLUM----------------------------------------------
 
-        if (metal == true && Input.GetKeyDown(KeyCode.E) && empty == false)
+        if( scor >= 5 && atikKutu == true)
         {
-            Debug.Log("Metal al?nd?");
-            empty = true;
+            SceneManager.LoadScene("SingleEnd");
         }
-
-        if (plastic == true && Input.GetKeyDown(KeyCode.E) && empty == false)
-        {
-            Debug.Log("plastik al?nd?");
-            empty = true;
-        }
-
-        if (glass == true && Input.GetKeyDown(KeyCode.E) && empty == false)
-        {
-            Debug.Log("Cam al?nd?");
-            empty = true;
-        }
-
-        if (kagit == true && Input.GetKeyDown(KeyCode.E) && empty == false)
-        {
-            Debug.Log("Kagit al?nd?");
-            empty = true;
-        }
-
-
-        if (empty == true)
-        {
-            if (Input.GetKeyDown(KeyCode.F))
-            {
-                
-                Debug.Log("B?eakt?n");
-                sifirla();
-            }
-        }        
     }
 
     
@@ -206,26 +173,12 @@ public class PlayerMovement : MonoBehaviour
 
         // ----------------------------- 3. BOLUM -------------------------------------------
 
-        if (other.tag == "organik")
-        {           
-            metal = true;
-        }
-
-        if (other.tag == "plastik")
+       if(other.tag == "atik")
         {
-            plastic = true;
+            Destroy(other.gameObject);
+            scor++;
+            Debug.Log(scor);
         }
-
-        if (other.tag == "cam")
-        {
-            glass = true;
-        }
-
-        if (other.tag == "kagit")
-        {
-            kagit = true;
-        }
-        
         
     }
 
@@ -238,29 +191,14 @@ public class PlayerMovement : MonoBehaviour
         }
 
         //------------------------------------------3.BOLUM---------------------------------
+        if(other.tag == "atikKutusu")
+        {
+            atikKutu = true;
+        }
         
-        if (empty == true && metal == true && plastic == false && glass == false)
-        {
-            organictut();
-            StartCoroutine(YapisPlayer(other.gameObject));
-        }
-        if (empty == true && metal == false && plastic == true && glass == false)
-        {
-            StartCoroutine(YapisPlayer(other.gameObject));
-        }
-        if (empty == true && metal == false && plastic == false && glass == true)
-        {
-            StartCoroutine(YapisPlayer(other.gameObject));
-        }       
     }
 
-    public void organictut()
-    {
-        metal = false;
-        plastic = false;
-        glass = false;
-        empty = false;
-    }
+    
 
   
 
@@ -321,7 +259,106 @@ public class PlayerMovement : MonoBehaviour
 
     //---------------------------3.BOLUM------------------------------------
 
-    private void sifirla()
+   
+
+
+
+
+
+}
+/* 
+ public bool metal = false;
+    public bool plastic = false;
+    public bool glass = false;
+    public bool kagit = false;
+    public bool empty = false;
+    public bool dolu = false;
+   
+ 
+ 
+        if (metal == true && Input.GetKeyDown(KeyCode.E) && empty == false)
+        {
+            Debug.Log("Metal al?nd?");
+            empty = true;
+        }
+
+        if (plastic == true && Input.GetKeyDown(KeyCode.E) && empty == false)
+        {
+            Debug.Log("plastik al?nd?");
+            empty = true;
+        }
+
+        if (glass == true && Input.GetKeyDown(KeyCode.E) && empty == false)
+        {
+            Debug.Log("Cam al?nd?");
+            empty = true;
+        }
+
+        if (kagit == true && Input.GetKeyDown(KeyCode.E) && empty == false)
+        {
+            Debug.Log("Kagit al?nd?");
+            empty = true;
+        }
+
+
+        if (empty == true)
+        {
+            if (Input.GetKeyDown(KeyCode.F))
+            {
+                
+                Debug.Log("B?eakt?n");
+                sifirla();
+            }
+        }        
+
+ if (other.tag == "organik")
+        {           
+            metal = true;
+        }
+
+        if (other.tag == "plastik")
+        {
+            plastic = true;
+        }
+
+        if (other.tag == "cam")
+        {
+            glass = true;
+        }
+
+        if (other.tag == "kagit")
+        {
+            kagit = true;
+        }
+
+ if (empty == true && metal == true && plastic == false && glass == false)
+        {
+            organictut();
+            StartCoroutine(YapisPlayer(other.gameObject));
+        }
+        if (empty == true && metal == false && plastic == true && glass == false)
+        {
+            StartCoroutine(YapisPlayer(other.gameObject));
+        }
+        if (empty == true && metal == false && plastic == false && glass == true)
+        {
+            StartCoroutine(YapisPlayer(other.gameObject));
+        }       
+
+ if (empty == true && metal == true && plastic == false && glass == false)
+        {
+            organictut();
+            StartCoroutine(YapisPlayer(other.gameObject));
+        }
+        if (empty == true && metal == false && plastic == true && glass == false)
+        {
+            StartCoroutine(YapisPlayer(other.gameObject));
+        }
+        if (empty == true && metal == false && plastic == false && glass == true)
+        {
+            StartCoroutine(YapisPlayer(other.gameObject));
+        }
+ private void sifirla()
     {
         metal = false;
         plastic = false;
@@ -329,7 +366,6 @@ public class PlayerMovement : MonoBehaviour
         kagit = false;
         empty = false;
     }
-
 
     IEnumerator YapisPlayer(GameObject trashObject)
     {
@@ -355,7 +391,4 @@ public class PlayerMovement : MonoBehaviour
             yield return null;
         }
     }
-
-
-
-}
+ */

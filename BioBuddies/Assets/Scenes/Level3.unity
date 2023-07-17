@@ -505,7 +505,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -520,7 +520,7 @@ GameObject:
   - component: {fileID: 9430261}
   m_Layer: 0
   m_Name: Metal (7)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1077,7 +1077,7 @@ GameObject:
   - component: {fileID: 21065199}
   m_Layer: 0
   m_Name: Metal (8)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1348,7 +1348,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -1442,7 +1442,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -1691,7 +1691,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0114c49a35aaf5744b5d9cc9efc15275,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0114c49a35aaf5744b5d9cc9efc15275, type: 3}
@@ -1983,7 +1983,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -2163,6 +2163,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Whiskey.002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
 --- !u!1001 &93674521
@@ -2265,7 +2270,7 @@ GameObject:
   - component: {fileID: 96385970}
   m_Layer: 0
   m_Name: Kagit (3)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2996,7 +3001,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -3309,7 +3314,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
@@ -3810,7 +3815,7 @@ GameObject:
   - component: {fileID: 150703023}
   m_Layer: 0
   m_Name: Plastik (7)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4092,7 +4097,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c1caa34be25174c4ca0e7683c544742f,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1caa34be25174c4ca0e7683c544742f, type: 3}
@@ -4738,7 +4743,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -5330,7 +5335,7 @@ GameObject:
   - component: {fileID: 224409613}
   m_Layer: 0
   m_Name: Kagit (2)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5962,7 +5967,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a259b92f2a9580a488017b9d353240e5,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a259b92f2a9580a488017b9d353240e5, type: 3}
@@ -6143,7 +6148,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -6392,7 +6397,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -6457,7 +6462,7 @@ GameObject:
   - component: {fileID: 272447557}
   m_Layer: 0
   m_Name: Plastik (5)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6573,7 +6578,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -6588,7 +6593,7 @@ GameObject:
   - component: {fileID: 274930992}
   m_Layer: 0
   m_Name: Cam (3)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6896,7 +6901,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a259b92f2a9580a488017b9d353240e5,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a259b92f2a9580a488017b9d353240e5, type: 3}
@@ -7186,7 +7191,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -7226,7 +7231,7 @@ GameObject:
   - component: {fileID: 320085291}
   m_Layer: 0
   m_Name: Metal (2)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7636,7 +7641,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -8435,7 +8440,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -8554,7 +8559,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -8648,7 +8653,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5109c130819e47f48b500a622be416e4,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5109c130819e47f48b500a622be416e4, type: 3}
@@ -8986,7 +8991,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -9142,12 +9147,8 @@ MonoBehaviour:
   trashes: 31
   magnet: 0
   magnetsecond: 3
-  metal: 0
-  plastic: 0
-  glass: 0
-  kagit: 0
-  empty: 0
-  dolu: 0
+  scor: 0
+  atikKutu: 0
 --- !u!1 &411035465
 GameObject:
   m_ObjectHideFlags: 0
@@ -9159,7 +9160,7 @@ GameObject:
   - component: {fileID: 411035466}
   m_Layer: 0
   m_Name: Plastik (3)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9275,7 +9276,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -9290,7 +9291,7 @@ GameObject:
   - component: {fileID: 413071527}
   m_Layer: 0
   m_Name: Cam (4)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9541,7 +9542,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -9876,7 +9877,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5109c130819e47f48b500a622be416e4,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5109c130819e47f48b500a622be416e4, type: 3}
@@ -9970,7 +9971,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -9985,7 +9986,7 @@ GameObject:
   - component: {fileID: 445684626}
   m_Layer: 0
   m_Name: Metal (4)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10187,6 +10188,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Whiskey.002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
 --- !u!1001 &455924397
@@ -10368,7 +10374,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -10528,7 +10534,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0114c49a35aaf5744b5d9cc9efc15275,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0114c49a35aaf5744b5d9cc9efc15275, type: 3}
@@ -11014,7 +11020,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -11108,7 +11114,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -11227,7 +11233,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -11356,7 +11362,7 @@ GameObject:
   - component: {fileID: 512293792}
   m_Layer: 0
   m_Name: Metal (5)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11547,7 +11553,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -11854,7 +11860,7 @@ GameObject:
   - component: {fileID: 530272508}
   m_Layer: 0
   m_Name: Kagit (7)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12409,7 +12415,7 @@ GameObject:
   - component: {fileID: 542789037}
   m_Layer: 0
   m_Name: Cam (5)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12620,7 +12626,7 @@ GameObject:
   - component: {fileID: 548696438}
   m_Layer: 0
   m_Name: Plastik (2)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13192,7 +13198,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -13511,7 +13517,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9d0aeb31156955f499477fabc799acad,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d0aeb31156955f499477fabc799acad, type: 3}
@@ -13526,7 +13532,7 @@ GameObject:
   - component: {fileID: 614358392}
   m_Layer: 0
   m_Name: Cam (8)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13559,7 +13565,7 @@ GameObject:
   - component: {fileID: 615475854}
   m_Layer: 0
   m_Name: Metal (3)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13764,7 +13770,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -13858,7 +13864,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
@@ -13952,7 +13958,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -14046,7 +14052,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -14140,7 +14146,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -14229,7 +14235,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9d0aeb31156955f499477fabc799acad,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d0aeb31156955f499477fabc799acad, type: 3}
@@ -14407,7 +14413,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3, type: 3}
@@ -14501,7 +14507,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
@@ -15076,7 +15082,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -15170,7 +15176,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -15428,7 +15434,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -15802,7 +15808,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3, type: 3}
@@ -15896,7 +15902,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -15973,7 +15979,7 @@ GameObject:
   - component: {fileID: 699127461}
   m_Layer: 0
   m_Name: Plastik (4)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16342,7 +16348,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
@@ -16607,7 +16613,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -17347,7 +17353,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -17441,7 +17447,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
@@ -17713,7 +17719,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -18096,7 +18102,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9d0aeb31156955f499477fabc799acad,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d0aeb31156955f499477fabc799acad, type: 3}
@@ -18136,7 +18142,7 @@ GameObject:
   - component: {fileID: 791882744}
   m_Layer: 0
   m_Name: Kagit (6)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18402,7 +18408,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -18598,7 +18604,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3, type: 3}
@@ -19089,7 +19095,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -19363,7 +19369,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a259b92f2a9580a488017b9d353240e5,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a259b92f2a9580a488017b9d353240e5, type: 3}
@@ -19457,7 +19463,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -19740,7 +19746,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -19989,7 +19995,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -20119,7 +20125,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3, type: 3}
@@ -20302,7 +20308,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -20526,7 +20532,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -20746,7 +20752,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 935362474}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1.965622, y: 2.2499328, z: 1.3795414}
@@ -21156,7 +21162,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -21250,7 +21256,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -21654,7 +21660,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -21903,7 +21909,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -21997,7 +22003,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -22183,7 +22189,7 @@ GameObject:
   - component: {fileID: 1005724621}
   m_Layer: 0
   m_Name: Plastik (6)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22563,7 +22569,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c1caa34be25174c4ca0e7683c544742f,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1caa34be25174c4ca0e7683c544742f, type: 3}
@@ -23186,7 +23192,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -23394,7 +23400,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -23409,7 +23415,7 @@ GameObject:
   - component: {fileID: 1075879334}
   m_Layer: 0
   m_Name: Cam (1)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23714,6 +23720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Whiskey.002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
 --- !u!1001 &1085977212
@@ -24009,7 +24020,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -24299,7 +24310,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -24548,7 +24559,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -24797,7 +24808,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -24812,7 +24823,7 @@ GameObject:
   - component: {fileID: 1131080255}
   m_Layer: 0
   m_Name: Kagit (8)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24844,7 +24855,7 @@ GameObject:
   - component: {fileID: 1131434282}
   m_Layer: 0
   m_Name: Cam (2)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25042,6 +25053,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Whiskey.002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
 --- !u!1001 &1136134763
@@ -25144,7 +25160,7 @@ GameObject:
   - component: {fileID: 1136392429}
   m_Layer: 0
   m_Name: Kagit (5)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25330,7 +25346,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -25741,7 +25757,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -25835,7 +25851,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -26193,7 +26209,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -26330,6 +26346,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RcycleBin.002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 07220cef7441fb5409bca4987f988f94,
+        type: 3}
+      propertyPath: m_TagString
+      value: atikKutusu
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07220cef7441fb5409bca4987f988f94, type: 3}
 --- !u!4 &1198081493 stripped
@@ -26346,7 +26367,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1182176683}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1.9656224, y: 2.2499328, z: 1.3795414}
@@ -26466,7 +26487,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -26560,7 +26581,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -26654,7 +26675,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -27083,7 +27104,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -27177,7 +27198,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -27192,7 +27213,7 @@ GameObject:
   - component: {fileID: 1225321879}
   m_Layer: 0
   m_Name: Plastik (8)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27466,7 +27487,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -27848,7 +27869,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0114c49a35aaf5744b5d9cc9efc15275,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0114c49a35aaf5744b5d9cc9efc15275, type: 3}
@@ -28072,7 +28093,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -28699,7 +28720,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c1caa34be25174c4ca0e7683c544742f,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1caa34be25174c4ca0e7683c544742f, type: 3}
@@ -28907,7 +28928,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -29001,7 +29022,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -29315,7 +29336,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -29330,7 +29351,7 @@ GameObject:
   - component: {fileID: 1339646104}
   m_Layer: 0
   m_Name: Kagit (4)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29589,7 +29610,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -29604,7 +29625,7 @@ GameObject:
   - component: {fileID: 1352465007}
   m_Layer: 0
   m_Name: Cam (6)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29722,7 +29743,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -29932,6 +29953,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RcycleBin.003
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 859346a20f381754a959cef9a681af9c,
+        type: 3}
+      propertyPath: m_TagString
+      value: atikKutusu
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 859346a20f381754a959cef9a681af9c, type: 3}
 --- !u!1001 &1370218136
@@ -30024,7 +30050,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -30969,6 +30995,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RcycleBin_kapak
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 139e6295da8e1644789f38304028b468,
+        type: 3}
+      propertyPath: m_TagString
+      value: atikKutusu
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 139e6295da8e1644789f38304028b468, type: 3}
 --- !u!1001 &1395004173
@@ -31056,7 +31087,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9d0aeb31156955f499477fabc799acad,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d0aeb31156955f499477fabc799acad, type: 3}
@@ -31253,6 +31284,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Whiskey.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
@@ -31567,7 +31603,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -31884,7 +31920,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c1caa34be25174c4ca0e7683c544742f,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1caa34be25174c4ca0e7683c544742f, type: 3}
@@ -31978,7 +32014,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0114c49a35aaf5744b5d9cc9efc15275,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0114c49a35aaf5744b5d9cc9efc15275, type: 3}
@@ -32097,7 +32133,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -32191,7 +32227,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -32638,7 +32674,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -32732,7 +32768,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -32940,7 +32976,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0eff02e81331180499264e6e52821e17,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0eff02e81331180499264e6e52821e17, type: 3}
@@ -33376,7 +33412,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -33600,7 +33636,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -33760,7 +33796,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5109c130819e47f48b500a622be416e4,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5109c130819e47f48b500a622be416e4, type: 3}
@@ -34253,7 +34289,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -34293,7 +34329,7 @@ GameObject:
   - component: {fileID: 1569800694}
   m_Layer: 0
   m_Name: Metal (6)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34500,7 +34536,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b81d44216d6913344945850f908a87b1,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b81d44216d6913344945850f908a87b1, type: 3}
@@ -34637,6 +34673,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RcycleBin
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 366c461662f1d404bbb3ce8241a70611,
+        type: 3}
+      propertyPath: m_TagString
+      value: atikKutusu
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 366c461662f1d404bbb3ce8241a70611, type: 3}
 --- !u!4 &1591024226 stripped
@@ -34653,7 +34694,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1356496027}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1.9656224, y: 2.2499328, z: 1.3795414}
@@ -34834,6 +34875,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Whiskey.002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
 --- !u!1001 &1603903349
@@ -34922,6 +34968,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Whiskey.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
@@ -35124,7 +35175,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c1caa34be25174c4ca0e7683c544742f,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1caa34be25174c4ca0e7683c544742f, type: 3}
@@ -35245,6 +35296,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RcycleBin.001
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3427faed59903004cb4a459d43402404,
+        type: 3}
+      propertyPath: m_TagString
+      value: atikKutusu
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3427faed59903004cb4a459d43402404, type: 3}
 --- !u!1 &1614963928 stripped
@@ -35362,7 +35418,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -35506,7 +35562,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -35600,7 +35656,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a259b92f2a9580a488017b9d353240e5,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a259b92f2a9580a488017b9d353240e5, type: 3}
@@ -36048,7 +36104,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a259b92f2a9580a488017b9d353240e5,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a259b92f2a9580a488017b9d353240e5, type: 3}
@@ -36142,7 +36198,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -37372,6 +37428,25 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!1 &1728819355 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 139e6295da8e1644789f38304028b468,
+    type: 3}
+  m_PrefabInstance: {fileID: 1394582067}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1728819359
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1728819355}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9650464, y: 0.3881724, z: 1.3849602}
+  m_Center: {x: -3.2126296, y: 2.4249887, z: 0.0067103207}
 --- !u!1 &1730138466 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 69250b20b61094b49a78fdfcbb1b6944,
@@ -37576,7 +37651,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -38013,7 +38088,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0236c3a342a9a824b98775babc46ad60,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0236c3a342a9a824b98775babc46ad60, type: 3}
@@ -38132,7 +38207,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d3cc440ffa1d1a48aa645763cba96d9,
         type: 3}
       propertyPath: m_TagString
-      value: cam
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3cc440ffa1d1a48aa645763cba96d9, type: 3}
@@ -38469,6 +38544,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Whiskey.002
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 00564abb8f886e345b05dc2353583ccd,
+        type: 3}
+      propertyPath: m_TagString
+      value: atik
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00564abb8f886e345b05dc2353583ccd, type: 3}
 --- !u!1001 &1794433111
@@ -38561,7 +38641,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -38655,7 +38735,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -38838,7 +38918,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -39007,7 +39087,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -39151,7 +39231,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -39558,7 +39638,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -39980,6 +40060,25 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!1 &1849361438 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0447fab2d7259b5449d71fc5de05296e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1245645055}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1849361442
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849361438}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9650459, y: 0.38817263, z: 1.3849602}
+  m_Center: {x: 3.424985, y: 2.4249887, z: 0.0067103207}
 --- !u!1001 &1858356702
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40070,7 +40169,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0114c49a35aaf5744b5d9cc9efc15275,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0114c49a35aaf5744b5d9cc9efc15275, type: 3}
@@ -40442,7 +40541,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -40536,7 +40635,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbd3c0b820c3d2c4dbf85635577f45ee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd3c0b820c3d2c4dbf85635577f45ee, type: 3}
@@ -40890,7 +40989,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1c535b449b84b7f4590724595a44cf18,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c535b449b84b7f4590724595a44cf18, type: 3}
@@ -41004,7 +41103,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9d0aeb31156955f499477fabc799acad,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d0aeb31156955f499477fabc799acad, type: 3}
@@ -41433,7 +41532,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
@@ -41527,7 +41626,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -41776,7 +41875,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d8fbb210ee44e149a34a6a438633653, type: 3}
@@ -42081,7 +42180,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1957437776}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1.9656224, y: 2.2499328, z: 1.3795414}
@@ -42265,7 +42364,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
@@ -42425,7 +42524,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb1b71d62de69f140bfed97c79890983,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb1b71d62de69f140bfed97c79890983, type: 3}
@@ -43075,7 +43174,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -43435,7 +43534,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5109c130819e47f48b500a622be416e4,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5109c130819e47f48b500a622be416e4, type: 3}
@@ -43618,7 +43717,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0f924ecaff6d0054a82314d87f039667,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f924ecaff6d0054a82314d87f039667, type: 3}
@@ -43867,7 +43966,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 719c28d8962ff9340bd02b9d7f673d33,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 719c28d8962ff9340bd02b9d7f673d33, type: 3}
@@ -43961,7 +44060,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5109c130819e47f48b500a622be416e4,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5109c130819e47f48b500a622be416e4, type: 3}
@@ -44144,7 +44243,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3f515e1f040a1024880ad95a60ffd599,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f515e1f040a1024880ad95a60ffd599, type: 3}
@@ -44694,7 +44793,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8e61dd17f7fbfe54cb3c514c50184eee,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61dd17f7fbfe54cb3c514c50184eee, type: 3}
@@ -44723,6 +44822,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.106438, y: 1.5265683, z: 1.165724}
   m_Center: {x: 0.054755133, y: 0.7632036, z: 0.023344966}
+--- !u!1 &2062558633 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d468fcf3d2d1f6e49ba45994605dcc22,
+    type: 3}
+  m_PrefabInstance: {fileID: 1632974358}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2062558637
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2062558633}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9650464, y: 0.3881724, z: 1.3849602}
+  m_Center: {x: -1.0811794, y: 2.4249887, z: 0.0067103207}
 --- !u!1001 &2063204817
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44813,7 +44931,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -44968,7 +45086,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3,
         type: 3}
       propertyPath: m_TagString
-      value: kagit
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62bc7e9b2ff0af14f9151efcb9daaaa3, type: 3}
@@ -45219,7 +45337,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: df0e6f4fd54dfa24db3f2b986b873bc7,
         type: 3}
       propertyPath: m_TagString
-      value: metal
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df0e6f4fd54dfa24db3f2b986b873bc7, type: 3}
@@ -45248,6 +45366,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.8848114, y: 3.5468802, z: 0.85162866}
   m_Center: {x: 0.031405132, y: 1.7631233, z: 0.0018539429}
+--- !u!1 &2096368487 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 656145775f32ed244a6e773be0fe1e8e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1232860182}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2096368491
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096368487}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9650459, y: 0.38817215, z: 1.3849602}
+  m_Center: {x: 1.1429434, y: 2.424989, z: 0.0067103207}
 --- !u!1 &2097346702 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2d8fbb210ee44e149a34a6a438633653,
@@ -45389,7 +45526,7 @@ GameObject:
   - component: {fileID: 2108223292}
   m_Layer: 0
   m_Name: Cam (7)
-  m_TagString: Untagged
+  m_TagString: atik
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45975,7 +46112,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 787ea3005aa60934ea44e880cc1855ff,
         type: 3}
       propertyPath: m_TagString
-      value: plastik
+      value: atik
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 787ea3005aa60934ea44e880cc1855ff, type: 3}
