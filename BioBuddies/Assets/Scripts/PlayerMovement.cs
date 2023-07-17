@@ -49,6 +49,11 @@ public class PlayerMovement : MonoBehaviour
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
+        if (puan == 31)
+        {
+            SceneManager.LoadScene("Level3");
+        }
+
         // Kamera y?n?ne g?re hareket vekt?r?n? hesapla
         Vector3 cameraForward = Vector3.Scale(mainCamera.transform.forward, new Vector3(1, 0, 1)).normalized;
         moveDirection = (vertical * cameraForward + horizontal * mainCamera.transform.right).normalized;
